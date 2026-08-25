@@ -1,0 +1,19 @@
+QCan you sit on it?
+Achair
+QIs it up high?
+QIs it man-made?
+QIs it moving in the Exosphere?
+Asatellite
+Aairplane
+QIs it Earth's natural satellite?
+Amoon
+Asky
+QCan you compute with it?
+Acomputer
+QDo you eat meal on it?
+Atable
+QIs it living?
+QIs it moving?
+Aanimal
+Aplant
+Amug
