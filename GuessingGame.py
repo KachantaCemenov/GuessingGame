@@ -2,12 +2,9 @@
 """
 Created on Thu Apr 30 16:56:14 2026
 
-@author: DuongMinhTri
 
 I include a txt file with the submission that save the binary tree from my playtest so it can read from it next session.
-The code used for loading/writing the file is in comment blocks because it's not in the scope of the project.
-Uncomment them if you want to try professor. I used it to save time from having to type in the same questions and 
-answers over and over.
+I used it to save time from having to type in the same questions and answers over and over.
 """
 
 
